@@ -1,11 +1,11 @@
 # Site Info
-title:              "커피사유의 생각 카페"
-description:        "에디터 커피사유의 블로그"
+title:              "정원준의 화학사랑"
+description:        "화학을 사랑하고 즐기는 사랑방"
 author_name:        "커피사유" # change this to your name
 logo_url:           https://avatars.githubusercontent.com/u/25861103?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                "https://stevenoh0908.github.io" # main url
+url:                "https://chemwj.github.io" # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           KR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
