@@ -1,0 +1,84 @@
+# Site Info
+title:              "커피사유의 생각 카페"
+description:        "에디터 커피사유의 블로그"
+author_name:        "커피사유" # change this to your name
+logo_url:           https://avatars.githubusercontent.com/u/25861103?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+
+# Site Settings
+url:                "https://stevenoh0908.github.io" # main url
+baseurl:            /
+permalink:          /:title # Post permalink
+timezone:           KR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         "files"
+    values:
+      file:         true
+  -
+    scope:
+      path:         "music"
+    values:
+      music:        true
+  -
+    scope:
+        path:      "files-forum"
+    values:
+        file-forum: true
+  -
+    scope:
+        path:      "files-problems"
+    values:
+        file-problems: true
+  -
+    scope:
+        path:      "files-code"
+    values:
+        file-code: true
+  -
+    scope:
+        path:      "files-keso"
+    values:
+        file-keso: true
+  -
+    scope:
+        path:      "files-codeproject"
+    values:
+        file-codeproject: true
+  -
+    scope:
+        path:      "images"
+    values:
+        images: true
