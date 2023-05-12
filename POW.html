@@ -4,7 +4,7 @@ layout: default
 
 <section>
   
-  <center><h3>KESO Academy 정리 및 자료 모음집</h3></center>
+  <center><h3>Problem of the Week(POW)</h3></center>
   
   <table>
       <thead>
@@ -15,7 +15,7 @@ layout: default
       </thead>
     
       <tbody>
-        {% assign files = site.static_files | where: "file-keso", true %}
+        {% assign files = site.static_files | where: "files-POW", true %}
         {% for myfile in files %}
           <tr>   
             <td><center>{{ myfile.name }}</center></td>
