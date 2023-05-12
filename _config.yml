@@ -59,14 +59,14 @@ defaults:
         file-forum: true
   -
     scope:
-        path:      "fileD-gen2"
+        path:      "fileD-g2"
     values:
-        file-gen2: true
+        file-g2: true
   -
     scope:
-        path:      "files-gen1"
+        path:      "files-g1"
     values:
-        file-gen1: true
+        file-g1: true
   -
     scope:
         path:      "files-pow"
