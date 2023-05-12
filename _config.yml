@@ -59,17 +59,17 @@ defaults:
         file-forum: true
   -
     scope:
-        path:      "files-gen2"
+        path:      "file-gen2"
     values:
         file-problems: true
   -
     scope:
-        path:      "files-gen1"
+        path:      "file-gen1"
     values:
         file-code: true
   -
     scope:
-        path:      "files-pow"
+        path:      "file-pow"
     values:
         file-keso: true
   -
