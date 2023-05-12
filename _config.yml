@@ -59,7 +59,7 @@ defaults:
         file-forum: true
   -
     scope:
-        path:      "fileD-g2"
+        path:      "files-g2"
     values:
         file-g2: true
   -
