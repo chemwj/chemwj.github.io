@@ -4,7 +4,7 @@ layout: default
 
 <section>
   
-  <center><h3>General Chemistry I(일반화학I)</h3></center>
+  <center><h3>General Chemistry II(일반화학II)</h3></center>
   
   <table>
       <thead>
@@ -15,7 +15,7 @@ layout: default
       </thead>
     
       <tbody>
-        {% assign files = site.static_files | where: "file-g1", true %}
+        {% assign files = site.static_files | where: "file-g2", true %}
         {% for myfile in files %}
           <tr>   
             <td><center>{{ myfile.basename }}</center></td>
