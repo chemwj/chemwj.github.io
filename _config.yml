@@ -61,17 +61,17 @@ defaults:
     scope:
         path:      "fileD-gen2"
     values:
-        file-problems: true
+        file-gen2: true
   -
     scope:
         path:      "files-gen1"
     values:
-        file-code: true
+        file-gen1: true
   -
     scope:
         path:      "files-pow"
     values:
-        file-keso: true
+        file-pow: true
   -
     scope:
         path:      "files-codeproject"
