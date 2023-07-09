@@ -10,7 +10,8 @@ layout: default
 	<div style="border: 3px solid #000000; background-color: #ffffff; color: black; border-radius: 5px; padding: 5px; padding-bottom: 10px;">
 		<center>
 			<p><b>Notice</b></p>
-			<p><b>답은 목요일 23:59까지 제출만 인정합니당!!</b></p>
+			<p><b>본 노트는 고려대학교 화학수학(Mcquarrie)</b></p>
+			<p><b>교재의 내용을 기반으로 작성되었습니다 :) </b></p>
 		
 		</center>
 	</div>
@@ -25,7 +26,7 @@ layout: default
       </thead>
 	  
       <tbody>
-        {% assign files = site.static_files | where: "file-pow", true %}
+        {% assign files = site.static_files | where: "file-m1", true %}
         {% for myfile in files %}
           <tr>   
             <td><center>{{ myfile.basename }}</center></td>
