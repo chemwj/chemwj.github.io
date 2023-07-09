@@ -81,4 +81,9 @@ defaults:
     scope:
         path:      "images"
     values:
+        images: true     
+  -
+    scope:
+        path:      "files-m1"
+    values:
         images: true
