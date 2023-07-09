@@ -27,6 +27,7 @@ plugins:
 
 
 defaults:
+  -  
     scope:
       path:         ""
     values:
@@ -73,9 +74,9 @@ defaults:
         file-pow: true
   -
       scope:
-        path:      "files-g3"
+        path:      "files-m1"
     values:
-        file-g3: true
+        file-m1: true
   -
     scope:
         path:      "files-codeproject"
