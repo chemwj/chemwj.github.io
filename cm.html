@@ -25,7 +25,7 @@ layout: default
       </thead>
 	  
       <tbody>
-        {% assign files = site.static_files | where: "file-cm", true %}
+        {% assign files = site.static_files | where: "files-cm", true %}
         {% for myfile in files %}
           <tr>   
             <td><center>{{ myfile.basename }}</center></td>
