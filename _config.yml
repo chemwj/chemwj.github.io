@@ -27,7 +27,6 @@ plugins:
 
 
 defaults:
--
   -
     scope:
       path:         ""
