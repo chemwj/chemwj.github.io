@@ -73,6 +73,11 @@ defaults:
     values:
         file-pow: true
   -
+      scope:
+        path:      "files-g3"
+    values:
+        file-g3: true
+  -
     scope:
         path:      "files-codeproject"
     values:
