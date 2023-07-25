@@ -8,7 +8,7 @@ title: About
 > 'The sudoku chemistry(수능)'에 환멸을 느껴 이 사이트를 만듭니다.<br>
 > __2023, 정원준_
 
-화학을 모두가 쉽고 재밌게 공부할 수 있도록, 지금은 단순히 교안을 제공하는 것에 그치지만 미래에는 더 다양한 guidance를 제공하는 것을 목표로 하고 있습니다. 현재 고려대학교 화학과(2023)에 재학 중이며, 유튜브 채널<a href="https://www.youtube.com/@chem_wj">(https://www.youtube.com/@chem_wj) 을 운영하고 있습니다. 
+화학을 모두가 쉽고 재밌게 공부할 수 있도록, 지금은 단순히 교안을 제공하는 것에 그치지만 미래에는 더 다양한 guidance를 제공하는 것을 목표로 하고 있습니다. 현재 고려대학교 화학과(2023)에 재학 중이며, 유튜브 채널(<a href="https://www.youtube.com/@chem_wj">https://www.youtube.com/@chem_wj</a>) 을 운영하고 있습니다. 
 
 ### 정원준, The Author
 
