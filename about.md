@@ -8,7 +8,7 @@ title: About
 > 'The sudoku chemistry(수능)'에 환멸을 느껴 이 사이트를 만듭니다.<br>
 > __2023, 정원준_
 
-화학을 모두가 쉽고 재밌게 공부할 수 있도록, 지금은 단순히 교안을 제공하는 것에 그치지만 미래에는 더 다양한 guidance를 제공하는 것을 목표로 하고 있습니다. 현재 고려대학교 화학과(2023)에 재학 중이며, 유튜브 채널<a href="https://www.youtube.com/@chem_wj">(https://www.youtube.com/@chem_wj)을 운영하고 있습니다. 
+화학을 모두가 쉽고 재밌게 공부할 수 있도록, 지금은 단순히 교안을 제공하는 것에 그치지만 미래에는 더 다양한 guidance를 제공하는 것을 목표로 하고 있습니다. 현재 고려대학교 화학과(2023)에 재학 중이며, 유튜브 채널<a href="https://www.youtube.com/@chem_wj">(https://www.youtube.com/@chem_wj) 을 운영하고 있습니다. 
 
 ### 정원준, The Author
 
@@ -27,8 +27,10 @@ title: About
 
 > 요즘 같은 아파트에서 기대할 수 없지만 전통 한옥에는 손님을 맞는 사랑방이 있었다.<br>
 > 날씨가 차가워지면 불을 지핀 따뜻한 사랑방은 때로는 술청이 되어 밤늦도록 이야기꽃이 피어났다.<br>
-> 화학사랑은 화학을 좋아하는 누구라도 들어와서 도움을 받고 토론하는 장소를 지향합니다.<br>
-> 모든 문의사항과 제안사항은 아래의 이메일로 주시면 됩니다.<br>
-> 이메일: <a href="mailto:stp1@korea.ac.kr">stp1@korea.ac.kr</a><br>
+
+
+화학사랑은 화학을 좋아하는 누구라도 들어와서 도움을 받고 토론하는 장소를 지향합니다.
+모든 문의사항과 제안사항은 아래의 이메일로 주시면 됩니다.<br>
+이메일: <a href="mailto:stp1@korea.ac.kr">stp1@korea.ac.kr</a><br>
 
 
