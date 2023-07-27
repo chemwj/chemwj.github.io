@@ -87,3 +87,8 @@ defaults:
         path:      "files-m1"
     values:
         file-m1: true
+  -
+    scope:
+        path:      "files/files-exp1"
+    values:
+        file-exp1: true
